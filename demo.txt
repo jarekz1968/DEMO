@@ -1,1 +1,2 @@
 This is a demo for pushing your project to github using git in Ubuntu 22.04
+Soon it will be available new projects
